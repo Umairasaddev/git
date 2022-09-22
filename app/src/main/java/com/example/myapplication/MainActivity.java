@@ -8,11 +8,13 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
         System.out.println("This is contained in my second commit");
 
-        Today is a good day
+        this isnt changing
     }
 }
